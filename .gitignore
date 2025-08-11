@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+GEMINI_API_KEY=AIzaSyBgKmLwwXdha4ulep4Wqw5dlr14g3uCvNo
